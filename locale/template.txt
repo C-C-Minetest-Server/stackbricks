@@ -1,0 +1,4 @@
+# textdomain: stackbricks
+
+##[ init.lua ]##
+@1 on @2=
